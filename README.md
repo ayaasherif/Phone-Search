@@ -1,4 +1,4 @@
-# 📱 Power BI Phone Search & E-Commerce Dashboard
+# Power BI Phone Search & E-Commerce Dashboard
 
 ## 📌 Project Overview
 This Power BI dashboard analyzes smartphone market trends, pricing strategies, customer ratings, and merchant fulfillment metrics based on the `Phone Search` dataset. It provides actionable insights into pricing distributions, seller badges (Best Seller, Amazon's Choice), sales volumes, and delivery models across smartphone models.
